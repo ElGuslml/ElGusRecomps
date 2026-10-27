@@ -2,6 +2,8 @@
 
 <p align="center">
   <a href="https://discord.gg/XQtM5TmNs8"><img alt="Discord: join the server" src="https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://ko-fi.com/elguslml"><img alt="Ko-fi: support me" src="https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
+  <a href="https://x.com/ElGuslml"><img alt="X: follow @ElGuslml" src="https://img.shields.io/badge/X-Follow%20%40ElGuslml-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 🎮 **Xbox 360 classics, running natively on your PC.** Each game here is *recompiled*: its original code is
@@ -21,8 +23,10 @@ sharper graphics, wide screens and higher frame rates.
 |:---:|---|---|---|
 | <img src="images/kameo.svg" width="72" alt=""> | **[Kameo: Elements of Power](https://github.com/ElGuslml/KameoRecomp)**<br>Xbox 360, 2005 · Rare<br>An elf princess who turns into elemental warriors to rescue her family. | <a href="https://github.com/ElGuslml/KameoRecomp/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/ElGuslml/KameoRecomp?label=latest&color=86a8ff"></a><br><img alt="Downloads" src="https://img.shields.io/github/downloads/ElGuslml/KameoRecomp/total?label=downloads"> | [⬇️ Download](https://github.com/ElGuslml/KameoRecomp/releases/latest)<br>[📖 Project page](https://github.com/ElGuslml/KameoRecomp) |
 | <img src="images/potcawe.svg" width="72" alt=""> | **[Pirates of the Caribbean: At World's End](https://github.com/ElGuslml/PiratesAtWorldsEndRecomp)**<br>Xbox 360, 2007 · Eurocom<br>Captain Jack Sparrow's adventure through the second and third films. | <a href="https://github.com/ElGuslml/PiratesAtWorldsEndRecomp/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/ElGuslml/PiratesAtWorldsEndRecomp?label=latest&color=b22222"></a><br><img alt="Downloads" src="https://img.shields.io/github/downloads/ElGuslml/PiratesAtWorldsEndRecomp/total?label=downloads"> | [⬇️ Download](https://github.com/ElGuslml/PiratesAtWorldsEndRecomp/releases/latest)<br>[📖 Project page](https://github.com/ElGuslml/PiratesAtWorldsEndRecomp) |
-| 🎯 | **Tom Clancy's Ghost Recon Advanced Warfighter**<br>Xbox 360, 2006 | 🔜 **Coming soon** | Follow the [Discord](https://discord.gg/XQtM5TmNs8) for news |
-| 🎸 | **Guitar Hero: Metallica**<br>Xbox 360, 2009 | 🔜 **Coming soon** | Follow the [Discord](https://discord.gg/XQtM5TmNs8) for news |
+| 🎯 | **Tom Clancy's Ghost Recon Advanced Warfighter**<br>Xbox 360, 2006 | 🔜 **Coming soon** | Follow the [Discord](https://discord.gg/XQtM5TmNs8) or [X](https://x.com/ElGuslml) for news |
+| 🎸 | **Guitar Hero: Metallica**<br>Xbox 360, 2009 | 🔥 **Very close to release** | Follow the [Discord](https://discord.gg/XQtM5TmNs8) or [X](https://x.com/ElGuslml) for news |
+| 🎸 | **Guitar Hero: Van Halen**<br>Xbox 360, 2009 | 🔥 **Very close to release** | Follow the [Discord](https://discord.gg/XQtM5TmNs8) or [X](https://x.com/ElGuslml) for news |
+| 🎸 | **Guitar Hero: Aerosmith**<br>Xbox 360, 2008 | 🔥 **Very close to release** | Follow the [Discord](https://discord.gg/XQtM5TmNs8) or [X](https://x.com/ElGuslml) for news |
 
 More games are on the way. 🚀
 
@@ -74,10 +78,33 @@ happened, a screenshot if you can, and the latest file in the `logs` folder next
 **Linux or Steam Deck?**
 Windows only for now.
 
+## ❤️ Support
+
+If you enjoy these games, you can support the work on [Ko-fi](https://ko-fi.com/elguslml) ☕. For news and
+previews of the next games, follow [@ElGuslml on X](https://x.com/ElGuslml) and join the
+[Discord](https://discord.gg/XQtM5TmNs8).
+
 ## 🧰 Built with
 
 - [ReXGlue SDK](https://github.com/rexglue/rexglue-sdk), the recompiler and the Xbox 360 runtime, derived from
   [Xenia](https://xenia.jp).
 - [NativeXRenderer](https://github.com/ElGuslml/NativeXRenderer), the native renderer the games are drawn with.
+
+## 🤖 A note about AI
+
+These projects are developed with the help of AI ([Claude](https://claude.ai), by Anthropic). I know it's a touchy
+subject for many people, so I want to be open about it and explain how the work is done:
+
+- 🎮 **The game is still the original game.** Its code is translated by the ReXGlue recompiler, not written by an
+  AI, so it plays as it did on the Xbox 360.
+- 🧪 **Every change is tested by hand.** I play each fix and improvement myself before it is released, and check it
+  against how the game behaves on the console: its speed, its graphics, its sound and how it feels to play.
+- ⚡ **Performance is measured, not guessed.** CPU use, frame times and GPU time are measured on real hardware
+  before and after each change, so that every game runs smoothly and doesn't waste your computer's resources.
+- 🙌 **Claude helps with the research and the code;** the decisions, the testing and the care for every game are mine.
+
+If something doesn't run as well as it should, it's a bug like any other: tell us on
+[Discord](https://discord.gg/XQtM5TmNs8) or open an issue, and it will get fixed. Thanks for giving these games a
+try! 💜
 
 Made by Gustavo Garcia ([@ElGuslml](https://github.com/ElGuslml)) with the help of Claude (Anthropic).
