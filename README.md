@@ -26,9 +26,25 @@ sharper graphics, wide screens and higher frame rates.
 | <img src="images/ghmetallica.svg" width="72" alt=""> | **[Guitar Hero: Metallica](https://github.com/ElGuslml/GHMetalRecomp)**<br>Xbox 360, 2009 · Neversoft<br>Rock through Metallica's history, and the songs of the bands that inspired them, with your guitar. | <a href="https://github.com/ElGuslml/GHMetalRecomp/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/ElGuslml/GHMetalRecomp?label=latest&color=c5dc3a"></a><br><img alt="Downloads" src="https://img.shields.io/github/downloads/ElGuslml/GHMetalRecomp/total?label=downloads"> | [⬇️ Download](https://github.com/ElGuslml/GHMetalRecomp/releases/latest)<br>[📖 Project page](https://github.com/ElGuslml/GHMetalRecomp) |
 | 🎯 | **Tom Clancy's Ghost Recon Advanced Warfighter**<br>Xbox 360, 2006 | 🔜 **Coming soon** | Follow the [Discord](https://discord.gg/XQtM5TmNs8) or [X](https://x.com/ElGuslml) for news |
 | 🎸 | **Guitar Hero: Van Halen**<br>Xbox 360, 2009 | 🔥 **Very close to release** | Follow the [Discord](https://discord.gg/XQtM5TmNs8) or [X](https://x.com/ElGuslml) for news |
-| 🎸 | **Guitar Hero: Aerosmith**<br>Xbox 360, 2008 | 🔥 **Very close to release** | Follow the [Discord](https://discord.gg/XQtM5TmNs8) or [X](https://x.com/ElGuslml) for news |
+| 🎸 | **Guitar Hero: Aerosmith**<br>Xbox 360, 2008 | 🔜 **Coming soon** | Follow the [Discord](https://discord.gg/XQtM5TmNs8) or [X](https://x.com/ElGuslml) for news |
+| 🎸 | **Guitar Hero Smash Hits**<br>Xbox 360, 2009 | 🔜 **Coming soon** | Follow the [Discord](https://discord.gg/XQtM5TmNs8) or [X](https://x.com/ElGuslml) for news |
+| 🎸 | **Guitar Hero 5**<br>Xbox 360, 2009 | 🔜 **Coming soon** | Follow the [Discord](https://discord.gg/XQtM5TmNs8) or [X](https://x.com/ElGuslml) for news |
+| 🎸 | **Guitar Hero: Warriors of Rock**<br>Xbox 360, 2010 | 🔜 **Coming soon** | Follow the [Discord](https://discord.gg/XQtM5TmNs8) or [X](https://x.com/ElGuslml) for news |
 
-More games are on the way. 🚀
+### 🗓️ Planned
+
+Next in line to be recompiled:
+
+| | Game | Status |
+|:---:|---|---|
+| 🥁 | **Rock Band**<br>Xbox 360, 2007 | 🗓️ **Planned** |
+| 🥁 | **Rock Band 2**<br>Xbox 360, 2008 | 🗓️ **Planned** |
+| 🥁 | **Rock Band 3**<br>Xbox 360, 2010 | 🗓️ **Planned** |
+| 🥁 | **Green Day: Rock Band**<br>Xbox 360, 2010 | 🗓️ **Planned** |
+| 🥁 | **LEGO Rock Band**<br>Xbox 360, 2009 | 🗓️ **Planned** |
+| 🥁 | **The Beatles: Rock Band**<br>Xbox 360, 2009 | 🗓️ **Planned** |
+
+More games are on the way. 🚀 Follow the [Discord](https://discord.gg/XQtM5TmNs8) or [X](https://x.com/ElGuslml) for news.
 
 ## ✨ What every game gets
 
@@ -73,7 +89,7 @@ problem happens there too.
 
 **I found a bug.**
 Tell us on [Discord](https://discord.gg/XQtM5TmNs8) or open an issue on the game's project page, with where it
-happened, a screenshot if you can, and the latest file in the `logs` folder next to the game.
+happened, a screenshot if you can, and the latest files in the `logs` folder next to the game.
 
 **Linux or Steam Deck?**
 Windows only for now.
